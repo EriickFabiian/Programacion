@@ -1,2 +1,2 @@
 # Programacion
-Programacion Orientada a Obejtos
+Programacion Orientada a Objetos
